@@ -1,0 +1,106 @@
+<Attractions>
+  <Attraction>
+    <Type>Museum</Type>
+    <Name>Philadelphia Zoo</Name>
+    <Location>
+      <Address>34 &amp; Girard Avenue</Address>
+      <City>Philadelphia</City>
+      <State>PA</State>
+      <PostalCode>19104</PostalCode>
+    </Location>
+    <Price>12.99</Price>
+  </Attraction>
+  <Attraction>
+    <Type>Food</Type>
+    <Name>Pat's Steaks</Name>
+    <Location>
+      <Address>9th Street &amp; Passyunk Avenue</Address>
+      <City>Philadelphia</City>
+      <State>PA</State>
+      <PostalCode>19145</PostalCode>
+    </Location>
+    <Price>5.00</Price>
+  </Attraction>
+  <Attraction>
+    <Type>Building</Type>
+    <Name>Empire State Building</Name>
+    <Location>
+      <Address>350 5th Avenue</Address>
+      <City>New York</City>
+      <State>NY</State>
+      <PostalCode>10118</PostalCode>
+    </Location>
+    <Price>27.00</Price>
+  </Attraction>
+  <Attraction>
+    <Type>Museum</Type>
+    <Name>Metropolitan Museum of Art</Name>
+    <Location>
+      <Address>1000 5th Avenue</Address>
+      <City>New York</City>
+      <State>NY</State>
+      <PostalCode>10028</PostalCode>
+    </Location>
+    <Price>25.00</Price>
+  </Attraction>
+  <Attraction>
+    <Type>Building</Type>
+    <Name>Rockefeller Center</Name>
+    <Location>
+      <Address>45 Rockefeller Plaza</Address>
+      <City>New York</City>
+      <State>NY</State>
+      <PostalCode>10111</PostalCode>
+    </Location>
+    <Price>0.00</Price>
+  </Attraction>
+
+  <Attraction>
+    <Type>Stadium</Type>
+    <Name>Charlotte Motor Speedway</Name>
+    <Location>
+      <Address>5555 &amp; Concord Parkway South</Address>
+      <City>Charlotte</City>
+      <State>NC</State>
+      <PostalCode>28027</PostalCode>
+    </Location>
+    <Price>100.00</Price>
+  </Attraction>
+  
+  <Attraction>
+    <Type>Amusement Park</Type>
+    <Name>Carowinds</Name>
+    <Location>
+      <Address>14523 &amp; Carowinds Boulevard</Address>
+      <City>Charlotte</City>
+      <State>NC</State>
+      <PostalCode>28273</PostalCode>
+    </Location>
+    <Price>46.99</Price>
+  </Attraction>
+
+  <Attraction>
+    <Type>Museum</Type>
+    <Name>Discovery</Name>
+    <Location>
+      <Address>301 &amp; North Tryon Street</Address>
+      <City>Charlotte</City>
+      <State>NC</State>
+      <PostalCode>28202</PostalCode>
+    </Location>
+    <Price>12.00</Price>
+  </Attraction>
+
+  <Attraction>
+    <Type>Stadium</Type>
+    <Name>Bank of America Stadium - Carolina Panthers</Name>
+    <Location>
+      <Address>800 &amp; South Mint Street</Address>
+      <City>Charlotte</City>
+      <State>NC</State>
+      <PostalCode>28202</PostalCode>
+    </Location>
+    <Price>200.00</Price>
+  </Attraction>
+</Attractions>
+

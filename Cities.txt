@@ -1,0 +1,3 @@
+Philadelphia,20
+New York,114
+Charlotte,200
